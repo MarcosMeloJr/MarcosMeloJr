@@ -13,12 +13,14 @@
 # Confira abaixo:
 
  ### Projeto em Power BI 📊
- - [Projeto 1 - Projeto de Análise do Ateliê de Costura Cetim Encantado - Clique Aqui](https://github.com/MarcosMeloJr/Power_BI_Atelie)
+ - [Projeto de Análise do Ateliê de Costura Cetim Encantado - Clique Aqui](https://github.com/MarcosMeloJr/Power_BI_Atelie)
  
  ### Projeto em Linguagem SQL e Power BI 🗂️                                                                                                                                 
- - [Projeto 1 - Projeto de Análise Centro Universitário UniISA - Clique Aqui](https://github.com/MarcosMeloJr/SQL-Power-BI-UniISA)
+ - [Projeto de Análise Centro Universitário UniISA - Clique Aqui](https://github.com/MarcosMeloJr/SQL-Power-BI-UniISA)
  
-
+### Projeto em Power BI - Análise do Perfil do Cliente 💵                                                                                                                              
+ - [Projeto de Análise da Empresa de Crédito Dungeon - Clique Aqui](https://github.com/MarcosMeloJr/Analise-Dungeon-Clientes)
+ 
 
 <!---
 
