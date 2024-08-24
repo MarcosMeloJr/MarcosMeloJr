@@ -2,7 +2,8 @@
 <h3 align="center">Transformando dados em decisões!</h3>
 
 - 🎯 Transformo dados em decisões!
-- 🎓 Graduando em Ciência de Dados;
+- 🎓 Graduando em _Ciência de Dados_;
+- 📊 Pós-Graduando em _Análise de Dados e Matemática Aplicada_, _Business Intelligence_ e _Big Data_; 
 - 🥇 Especialista em gerar valor; 
 - 💻 Conhecimentos em: Microsoft Excel, MS Power BI, Power Query, Modelagem de dados, DAX, Metodologias Ágeis e SQL;
 - ⚡   **Home Office <3**
@@ -12,7 +13,7 @@
 
 # Confira abaixo:
 
- ### Projeto em Power BI 📊
+ ### Projeto em Power BI 📈
  - [Projeto de Análise do Ateliê de Costura Cetim Encantado - Clique Aqui](https://github.com/MarcosMeloJr/Power_BI_Atelie)
  
  ### Projeto em Linguagem SQL e Power BI 🗂️                                                                                                                                 
