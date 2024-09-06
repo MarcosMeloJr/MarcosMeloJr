@@ -1,9 +1,10 @@
 <h1 align="center">Opa! Tudo bem? Sou Marcos Melo 👋</h1>
 <h3 align="center">Transformando dados em decisões!</h3>
 
+- 📊 Analista de Dados Sênior
 - 🎯 Transformo dados em decisões!
 - 🎓 Graduando em _Ciência de Dados_;
-- 📊 Pós-Graduando em _Análise de Dados e Matemática Aplicada_, _Business Intelligence_ e _Big Data_; 
+- 📚 Pós-Graduando em _Análise de Dados e Matemática Aplicada_, _Business Intelligence_ e _Big Data_; 
 - 🥇 Especialista em gerar valor; 
 - 💻 Conhecimentos em: Microsoft Excel, MS Power BI, Power Query, Modelagem de dados, DAX, Metodologias Ágeis e SQL;
 - ⚡   **Home Office <3**
