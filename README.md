@@ -1,7 +1,7 @@
 <h1 align="center">Opa! Tudo bem? Sou Marcos Melo 👋</h1>
 <h3 align="center">Transformando dados em decisões!</h3>
 
-- 📊 Analista de Dados Sênior
+- 📊 Senior Data Analyst
 - 🎯 Transformo dados em decisões!
 - 🎓 Graduando em _Ciência de Dados_;
 - 📚 Pós-Graduando em _Análise de Dados e Matemática Aplicada_, _Business Intelligence_ e _Big Data_; 
